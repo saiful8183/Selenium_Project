@@ -47,48 +47,7 @@ public class DropDownTest {
 		WebDriver driver=new FirefoxDriver();
 		driver.manage().window().maximize();
 
-		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				(15));
+		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(15));
 		
 		
 		
